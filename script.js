@@ -1,3 +1,3 @@
 // Hello world
 
-// new new comment
+// New comment
